@@ -22,7 +22,7 @@
     <maven-jar-plugin.version>3.1.0</maven-jar-plugin.version>
     <maven-shade-plugin.version>3.2.1</maven-shade-plugin.version>
     <lombok.version>1.18.8</lombok.version>
-    <itext7-core.version>7.1.8</itext7-core.version>
+    <itext7-core.version>7.2.0</itext7-core.version>
     <itextpdf.version>5.5.13.1</itextpdf.version>
   </properties>
 
